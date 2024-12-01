@@ -1,0 +1,5 @@
+warehouse/
+spark-warehouse/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
